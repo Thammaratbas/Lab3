@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@300&family=Kanit:wght@300&family=Mooli&display=swap');
+h1{
+    font-size: 100px;
+    font-family: 'Mooli', sans-serif;
+}
+p{
+    font-size: 80px;
+    font-family: 'Mooli', sans-serif;
+}
+button{
+    margin: 50px;
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+    font-family: 'Mooli', sans-serif;
+}
+h2{
+    text-align: right;
+    font-size: 30px;
+    font-family: 'Mooli', sans-serif;
+}
